@@ -56,7 +56,7 @@ previous bigram (bigram-name-generator) model — but smarter!
 - What tanh activation does and why we need it
 - The difference between logits, softmax and probabilities
 - How multinomial sampling picks the next character
-- How to use a GPU in Google Colab
+- How to use a GPU instead of CPU
 
 ---
 
