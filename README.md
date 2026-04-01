@@ -8,6 +8,16 @@ previous bigram (bigram-name-generator) model — but smarter!
 
 ---
 
+## Sample generated names
+
+amaritish, freigaely, norianiela, meily, joskailo, avio, kira, dane,
+jakenley, faimooy, zimus, kalen, adeesaia, rufaraan, ziv, elina, fina,
+alishi, hantabianna, philey, brena, khaira, keilishka, lani, cashlynn,
+yeshur, tarek, atill, viah, diayshi, sannady, christeriks, conna, nair,
+fuell, autum, zed, aya, adela, harlynn, nea, xani, damournie
+
+---
+
 ## Advantages over bigram?
 
 | | Bigram  | MLP  |
@@ -61,4 +71,4 @@ previous bigram (bigram-name-generator) model — but smarter!
 ---
 
 ⭐ If you like this project, give it a star!
-Made with ❤️ by @nishanm15.
+Have fun ❤️
